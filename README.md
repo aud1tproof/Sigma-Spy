@@ -1,15 +1,17 @@
 # Sigma-Spy
+
+(a hopefully fixed version of sigma spy)
 A complete Remote Spy with an incredible parser that captures Client receives and pushes with Actor support!
 
 ## Notices
-- Sigma Spy will have bugs, please report any bugs by opening an [issue](https://github.com/depthso/Sigma-Spy/issues) on Github
-- If you gave a suggestion, please post it in the [discussions](https://github.com/depthso/Sigma-Spy/discussions)
+- Sigma Spy will have bugs, please report any bugs by opening an [issue](https://github.com/aud1tproof/Sigma-Spy/issues) on Github
+- If you gave a suggestion, please post it in the [discussions](https://github.com/aud1tproof/Sigma-Spy/discussions)
 - Please do not use Potassium in games with Actors as Potassium's crude implimentations break
 
 ## Loadstring
 ```lua
 --// Sigma Spy @depso
-loadstring(game:HttpGet("https://raw.githubusercontent.com/depthso/Sigma-Spy/refs/heads/main/Main.lua"), "Sigma Spy")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aud1tproof/Sigma-Spy/refs/heads/main/Main.lua"), "Sigma Spy")()
 ```
 
 ## Features ⚡
