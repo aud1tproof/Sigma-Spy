@@ -5,7 +5,7 @@ type table = {
 }
 
 --// Libraries
-local ParserModule = loadstring(game:HttpGet('https://raw.githubusercontent.com/depthso/Roblox-parser/refs/heads/main/main.lua'))()
+local ParserModule = loadstring(game:HttpGet('https://raw.githubusercontent.com/aud1tproof/Sigma-Spy/refs/heads/main/lib/parser.lua'))()
 
 --// Parser
 function ParserModule:Import(Name: string)
